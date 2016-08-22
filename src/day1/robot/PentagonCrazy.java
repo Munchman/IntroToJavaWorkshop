@@ -10,7 +10,7 @@ public class PentagonCrazy {
 
 	private void makePrettyThings() {
 		// 1. Create a new Robot
-
+Robot robot = new Robot("mini");
 		// 3. Put the robot's pen down
 
 		// 8. Make the robot go at maximum speed (10)
