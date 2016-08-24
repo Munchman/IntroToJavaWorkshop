@@ -12,7 +12,7 @@ R2D2.penDown();
 		// 3. Set the robot to go at max speed (10)
 		R2D2.setSpeed(10);
 		// 4. Do the following (steps 6-9) 75 times
-		for (int i = 0; i < 75; i++) {
+		for (int i = 0; i < 10000; i++) {
 
 			// 7. Change the pen color to random
 R2D2.setRandomPenColor();
